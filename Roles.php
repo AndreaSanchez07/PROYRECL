@@ -7,6 +7,7 @@ use App\Http\Controllers\Permisos;
 use Illuminate\Support\Fascades\Validator;
 use App\Models\Role;
 
+//Se modifico el archivo de quejas.blade.php
 
 class Roles extends Controller
 {    

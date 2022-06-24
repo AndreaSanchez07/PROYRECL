@@ -5,6 +5,7 @@
         <!-- Page Cabecera -->
     <div class="d-sm-flex align-items-center justify-content-between mb-4">
         <h1 class="h3 mb-0 text-gray-800">Quejas y Devoluciones</h1>
+        <p>Se modifico el archivo de quejas.blade.php</p>
     </div>
 
 @endsection
